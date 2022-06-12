@@ -1,1 +1,1 @@
-# JaehoSeong_termproject
+# cifar10_termproject
